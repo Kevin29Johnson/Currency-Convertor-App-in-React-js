@@ -1,0 +1,35 @@
+.App {
+  font-family:sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #82dbd8;
+  
+}
+select {
+  margin: 20px;
+  font-size: 1rem;
+  border: none;
+  padding: 7px;
+  border-radius:8px;
+}
+h1,
+h2 {
+  margin: 40px;
+  color: #187498;
+}
+h1 {
+  font-weight: bold;
+}
+input{
+  padding: 9px;
+  border: none;
+  border-radius: 8px;
+}
+button{
+  margin: 20px;
+  padding: 7px;
+  border: none;
+  border-radius:5px;
+  font-size:1rem;
+}
