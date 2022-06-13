@@ -31,7 +31,7 @@ export default function App() {
        {currency===currency2 ?<h2>please select 2 different currencies</h2>:<h2>You want to convert {currency} to {currency2}</h2>}
        <h2>Enter value</h2>
      <input placeHolder="Enter value" value={value} onChange={handleChange}></input>
-     <button>convert</button>
+       {/* <button>convert</button> */}
      {
         currency==="Rupees"?<h2>Converted: {value*0.013}  {currency2}</h2>:<h2>Converted: {value*78.18}  {currency2}</h2>
       }
