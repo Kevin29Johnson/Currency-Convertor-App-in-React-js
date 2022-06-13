@@ -3,10 +3,11 @@ Simple currency convertor App in React js
 
 
 
-
-![image](https://user-images.githubusercontent.com/69135844/173290100-180e77b8-54a7-449f-94a5-d75a9832b4ee.png)
-
+![image](https://user-images.githubusercontent.com/69135844/173290596-1a91a98a-f7ef-4bc1-b260-5a09e4f34878.png)
 
 
 
-![image](https://user-images.githubusercontent.com/69135844/173290275-7890b621-0ef7-4bec-acb6-4900e874d0b0.png)
+
+
+
+![image](https://user-images.githubusercontent.com/69135844/173290648-e88bf7b4-199c-4bf7-844a-ed77c47442bd.png)
