@@ -9,5 +9,4 @@ Simple currency convertor App in React js
 
 
 
-![image](https://user-images.githubusercontent.com/69135844/173290178-ef174b60-2a10-4e20-9e1d-070a26935fe0.png)
-
+![image](https://user-images.githubusercontent.com/69135844/173290275-7890b621-0ef7-4bec-acb6-4900e874d0b0.png)
